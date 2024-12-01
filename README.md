@@ -22,7 +22,10 @@ Tirth is an advanced AI designed to assist users with a variety of tasks, includ
 2. **Install Packages**
   You can input this command on a terminal if you don't have all of these libraries.
    ```bash
-   pip install PyQt5 Pillow pyttsx3 qdarkstyle requests pyperclip
+   pip install PyQt5 Pillow qdarkstyle requests pyperclip
+   #install all of pyttsx3 and threading
+   pip install pyttsx3
+   pip install threading
 
 3. **Run Python File**
    Use the following command on your terminal or run the python file on your python IDE.
